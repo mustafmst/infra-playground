@@ -2,5 +2,8 @@
 
 ## Steps
 
-1. install multipass (the best way is to use snap)
-2. 
+1. Install virt-manager
+2. Create 2 same vm's with ubuntu 22.04 server 
+    - openssh
+    - microk8s
+    - docker
