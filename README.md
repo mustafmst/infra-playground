@@ -7,3 +7,7 @@
     - openssh
     - microk8s
     - docker
+3. Create workstation and server for Chef
+4. Install on Chef server:
+    - https://docs.chef.io/workstation/install_workstation/
+    - https://docs.chef.io/server/install_server/
